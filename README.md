@@ -29,13 +29,40 @@ Durante esta experiencia trabajé con **Python, FastAPI, PostgreSQL, Docker y mo
 
 ## 🛠️ Tecnologías
 
-| Área | Tecnologías y herramientas |
-| --- | --- |
-| **Lenguajes** | C#, Python, JavaScript, SQL |
-| **Backend** | .NET, Node.js, Express.js, FastAPI |
-| **Bases de datos** | PostgreSQL, SQL Server, MySQL, Supabase |
-| **Interfaces** | HTML, CSS, Windows Forms, WPF, Avalonia UI |
-| **Herramientas** | Git, GitHub, Docker |
+### Lenguajes y web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,html,css&amp;theme=dark" alt="C#, Python, JavaScript, HTML y CSS" />
+  <img src="assets/sql-icon.svg" width="48" height="48" alt="SQL" />
+</p>
+
+<p align="center"><sub>C# · Python · JavaScript · HTML · CSS · SQL</sub></p>
+
+### Backend y aplicaciones de escritorio
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi&amp;theme=dark" alt=".NET, Node.js, Express.js y FastAPI" />
+</p>
+
+<p align="center"><sub>.NET · Node.js · Express.js · FastAPI</sub></p>
+
+<p align="center">También trabajo con <strong>Windows Forms, WPF y Avalonia UI</strong>.</p>
+
+### Bases de datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&amp;theme=dark" alt="PostgreSQL, MySQL y Supabase" />
+</p>
+
+<p align="center"><sub>PostgreSQL · MySQL · Supabase · SQL Server</sub></p>
+
+### Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,visualstudio,vscode&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Visual Studio y Visual Studio Code" />
+</p>
+
+<p align="center"><sub>Git · GitHub · Docker · Postman · Visual Studio · VS Code</sub></p>
 
 **Ahora mismo profundizo en:** desarrollo backend, arquitectura de aplicaciones e integración de IA con bases de datos.
 
